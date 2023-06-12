@@ -1,2 +1,2 @@
 #!/bin/bash
-taile notes /etc/passwd
+tail /etc/passwd
